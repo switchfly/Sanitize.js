@@ -1,0 +1,8 @@
+{
+  "name": "Sanitize.js",
+  "version": "1.0.1",
+  "author": "Gabriel Birke (mailto:gabriel@lebenplusplus.de)",
+  "description": "Sanitize.js is a whitelist-based HTML sanitizer.",
+  "homepage": "https://github.com/gbirke/Sanitize.js",
+  "license": "MIT License"
+}
